@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "amorisdiviniethu00antv_0381.png"; bbox 0 0 1659 2814; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 231 340 1600 2068">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 231 340 1600 2068">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 340 1600 2068; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 231 340 1600 2068; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 319 2097 1499 2247">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 319 2097 1499 2247">
+     <span class='ocr_line' id='line_1_2' title="bbox 319 2097 1499 2176; baseline -0.003 -17"><span class='ocrx_word' id='word_1_2' title='bbox 319 2114 387 2159; x_wconf 77' lang='lat' dir='ltr'><em>Le</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 399 2100 544 2158; x_wconf 61' lang='lat' dir='ltr'><em>manase</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 563 2097 635 2157; x_wconf 51' lang='lat' dir='ltr'><em>ess}</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 649 2131 725 2157; x_wconf 75' lang='lat' dir='ltr'><em>me</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 738 2130 846 2161; x_wconf 54' lang='lat' dir='ltr'><em>merl</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 861 2102 1071 2158; x_wconf 61' lang='lat' dir='ltr'><em>ake-rebam</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1091 2130 1200 2155; x_wconf 68' lang='lat' dir='ltr'><em>naus</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1217 2129 1302 2156; x_wconf 63' lang='grc' dir='ltr'><em>νηί</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1329 2105 1499 2176; x_wconf 54' lang='lat' dir='ltr'><em>basque:</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 322 2173 1495 2247; baseline -0.004 -20"><span class='ocrx_word' id='word_1_11' title='bbox 322 2186 551 2230; x_wconf 66' lang='lat' dir='ltr'><em>Heureux,</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 568 2173 691 2246; x_wconf 60' lang='lat' dir='ltr'><em>lequel</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 720 2200 822 2241; x_wconf 56' lang='lat' dir='ltr'><em>auec</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 856 2176 1065 2226; x_wconf 64' lang='lat' dir='ltr'><em>ZZAmour</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 1095 2175 1495 2247; x_wconf 45' lang='lat' dir='ltr'><em>dzmfijffmzbarque.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
